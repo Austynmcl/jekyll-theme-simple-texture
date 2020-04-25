@@ -1,4 +1,5 @@
 source "https://rubygems.org"
+gem "github-pages", group :jekyll_plugins
 gemspec
 
 # If you've just forked the repo,
